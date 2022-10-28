@@ -1,3 +1,8 @@
+Login with
+
+User: code
+password: test
+
 # The Solution 
 - I have used a clean architecture, with MVVM+Combine pattern
 - The navigation has a coordinator pattern
@@ -47,9 +52,3 @@ I've simplified using constructor injections.
 ## Navigation
 Navigation is done using a simple coordinators pattern.
 
-## assumptions
-* I don't have details of what is required in the api response, so I have put options
-* I have seen that the token expires but there is no documentation to refresh it, and there is no instruction for this case so it will have to be sent to the login when the token expires
-* There is no description for the designs, and seeing the screens are from android or designs with Material framework, so I have left the simple layouts using native components
-* There is no information for the strings or translations, so i simplified it to hardcode them
-* There is not much information about the tests so I only did the unit tests of the viewmodels, domain layer and data layer, which I think is the most important thing to be covered by tests
