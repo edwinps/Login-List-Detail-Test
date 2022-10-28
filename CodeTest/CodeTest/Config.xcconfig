@@ -1,0 +1,14 @@
+//
+//  Config.xcconfig
+//  CodeTest
+//
+//  Created by Edwin Peña on 11/10/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// Application name
+APPLICATION_NAME = CodeTest
+// API endpoint
+API_URL = mobilecodetest.fws.io

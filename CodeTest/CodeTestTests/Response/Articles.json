@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2019-05-15",
+    "id": 127,
+    "summary": "Apps4Startups is an event for entrepreneurs to discuss, share, pitch and network, run by Future Workshops.",
+    "thumbnail_template_url": "https://miro.medium.com/fit/c/:width/:height/1*hFIdXmRlY278dzunhO5Mew.png",
+    "thumbnail_url": "https://miro.medium.com/fit/c/360/360/1*hFIdXmRlY278dzunhO5Mew.png",
+    "title": "Speaking at Apps4Startups"
+  },
+  {
+    "date": "2016-09-06",
+    "id": 2143,
+    "summary": "Apple’s latest mobile releases — iOS 10 and watchOS 3 — provide clear opportunities to integrate Apps with the iPhone, iPad and Apple Watch at a fundamental level.",
+    "thumbnail_template_url": "https://miro.medium.com/fit/c/:width/:height/1*14aRtdZGuYj_VMVl9Mxcwg.jpeg",
+    "thumbnail_url": "https://miro.medium.com/fit/c/360/360/1*14aRtdZGuYj_VMVl9Mxcwg.jpeg",
+    "title": "How Apps will evolve with iOS 10"
+  },
+  {
+    "date": "2016-08-19",
+    "id": 73824,
+    "summary": "After working with Future Workshops to deliver the successful TopTable.com app in a previous role, Love Home Swap (LHS) CTO Chris Watson asked us to help...",
+    "thumbnail_template_url": "https://miro.medium.com/fit/c/:width/:height/1*RpwLcEJKd3DyZq-067saMQ.jpeg",
+    "thumbnail_url": "https://miro.medium.com/fit/c/360/360/1*RpwLcEJKd3DyZq-067saMQ.jpeg",
+    "title": "How we got 180 million impressions on the App Store with Love Home Swap"
+  },
+  {
+    "date": "2016-07-11",
+    "id": 9224,
+    "summary": "The Open Championship is golf’s oldest major tournament. For four days every year, golfers compete for the coveted Claret Jug and the title of Champion...",
+    "thumbnail_template_url": "https://miro.medium.com/fit/c/:width/:height/1*C0JyynFQz8qmC6otJG_-9A.png",
+    "thumbnail_url": "https://miro.medium.com/fit/c/360/360/1*C0JyynFQz8qmC6otJG_-9A.png",
+    "title": "The 145th Open Championship: Re-defining Event Maps"
+  },
+  {
+    "date": "2016-06-1",
+    "id": 4372,
+    "summary": "“You need to pick the right partner, and trust them.” — Jon Moore, CEO, Bloomberg New Energy Finance",
+    "thumbnail_template_url": "https://miro.medium.com/fit/c/:width/:height/1*oUiw7JywXi_0egBY-cnpCQ.png",
+    "thumbnail_url": "https://miro.medium.com/fit/c/360/360/1*oUiw7JywXi_0egBY-cnpCQ.png",
+    "title": "Apps in-depth: Building Bloomberg New Energy Finance for iOS & Android"
+  }
+]
